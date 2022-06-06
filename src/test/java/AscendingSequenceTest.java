@@ -5,6 +5,8 @@ public class AscendingSequenceTest {
         private AscendingSequence as;
 
 
+
+
     @Order(1) // порядок по тестам
     @Test
     public void testAscendingSequenceSequenceHappyPathPositive(){
